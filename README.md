@@ -2,7 +2,7 @@
 Rex Project Adalah Tools Untuk Menyebar Virus Via Redirect Link
 ```
 
-# Instalation
+
 
 # How To Install On Termux
 ```
