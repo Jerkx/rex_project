@@ -6,19 +6,19 @@ Rex Project Adalah Tools Untuk Menyebar Virus Via Redirect Link
 
 # How To Install On Termux
 ```
-1.pkg update && pkg upgrade
-2.pkg install git
-3.git clone https://github.com/JerkX/rex_project
-4.cd rex_project
-5.bash rex.sh
+pkg update && pkg upgrade
+pkg install git
+git clone https://github.com/JerkX/rex_project
+cd rex_project
+bash rex.sh
 ```
 
 # How To Install On Linux
-1.apt-get update -y && apt-get upgrade -y
-2.apt-get install git
-3.git clone https://github.com/JerkX/rex_project
-4.cd rex_project
-5.bash rex.sh
+apt-get update -y && apt-get upgrade -y
+apt-get install git
+git clone https://github.com/JerkX/rex_project
+cd rex_project
+bash rex.sh
 ```
 
 #Credits
