@@ -21,6 +21,6 @@ cd rex_project
 bash rex.sh
 ```
 
-#Credits
-<br> Original code by https://github.com/JerkX/rex_project
-<br>
+
+
+
