@@ -14,6 +14,8 @@ bash rex.sh
 ```
 
 # How To Install On Linux
+```
+
 apt-get update -y && apt-get upgrade -y
 apt-get install git
 git clone https://github.com/JerkX/rex_project
