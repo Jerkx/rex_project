@@ -5,7 +5,7 @@
 
 
 ## Rex_Project
-Spider Project Adalah Tools Untuk Menyebarkan Virus
+Rex Project Adalah Tools Untuk Menyebarkan Virus
 Via Direct Link Dan Url Shortner
 
 ## How To Install On Termux
