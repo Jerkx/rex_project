@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://imgur.com/7WwWTAJ.png" width=400/>
+  <img src="https://imgur.com/eHeEdxi.png" width=400/>
 </p>
 
 
 
-## Spider_Project
+## Rex_Project
 Spider Project Adalah Tools Untuk Menyebarkan Virus
 Via Direct Link Dan Url Shortner
 
