@@ -31,6 +31,12 @@ bash rex.sh
 # ScreenShots
 ![Screenshot](Screenshot.png)
 
+<h2>📧 Contact</h2>
+<lh3>You Want Ask About  My Tools Or Being a Friends>
+<br>Telegram : JerkKids <br>E-mail : dekxter3333@gmail.com>
+<hr>
+<hr>
+  
 ## Sosmed
 [INSTAGRAM](https://instagram.com/jerkkids/Sosmed/INSTAGRAM/)
 
