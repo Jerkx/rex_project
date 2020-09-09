@@ -32,14 +32,21 @@ bash rex.sh
 ![Screenshot](Screenshot.png)
 
 <h2>📧 Contact</h2>
-<lh3>You Want Ask About  My Tools Or Being a Friends>
-<br>Telegram : JerkKids <br>E-mail : dekxter3333@gmail.com>
+<lh3>You Want Ask About  My Tools Or Being a Business Friend>
+<br>E-mail : dekxter3333@gmail.com>
 <hr>
 <hr>
   
-## Sosmed
-[INSTAGRAM](https://instagram.com/jerkkids/Sosmed/INSTAGRAM/)
+## Ask Me About Tools Here
 
-[FACEBOOK](https://facebook.com/JerkKids/Sosmed/FACEBOOK/)
+[![Github](https://img.shields.io/badge/-Github-222222?style=flat-square&logo=Github&logoColor=white)](https://github.com/Jerkx/Ask)
+[![Facebook](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&link=https://https://facebook.com/JerkKids)](https://facebook.com/JerkKids)
+[![Telegram](https://img.shields.io/badge/-Telegram-222222?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/JerkKids)](https://t.me/JerkKids)
+[![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram/jerkkids)](https://instagram.com/jerkkids)
 
-[GITHUB](https://github.com/Jerkx/Sosmed/GITHUB/)
+## Disclaimer
+'''
+Do It With Your Own Risk
+Dont Use This Tools For Destroy!!
+'''
+
