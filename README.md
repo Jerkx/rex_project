@@ -32,8 +32,8 @@ bash rex.sh
 ![Screenshot](Screenshot.png)
 
 <h2>📧 Contact</h2>
-<lh3>You Want Ask About  My Tools Or Being a Business Friend>
-<br>E-mail : dekxter3333@gmail.com>
+<lh3>You Want Ask About  My Tools Or Being a Business Friend
+<br>E-mail : dekxter3333@gmail.com
 <hr>
 <hr>
   
